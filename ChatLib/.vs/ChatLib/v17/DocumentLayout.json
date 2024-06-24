@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\Study\\C_sharp\\ChatLib\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{87B7C605-2303-4020-84F4-B7EBD7D2E3BE}|ChatLib\\ChatLib.csproj|c:\\users\\user\\desktop\\study\\c_sharp\\chatlib\\chatlib\\models\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87B7C605-2303-4020-84F4-B7EBD7D2E3BE}|ChatLib\\ChatLib.csproj|solutionrelative:chatlib\\models\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ChatHub.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Study\\C_sharp\\ChatLib\\ChatLib\\Models\\ChatHub.cs",
+              "RelativeDocumentMoniker": "ChatLib\\Models\\ChatHub.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Study\\C_sharp\\ChatLib\\ChatLib\\Models\\ChatHub.cs",
+              "RelativeToolTip": "ChatLib\\Models\\ChatHub.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T03:08:38.294Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
